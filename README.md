@@ -38,6 +38,6 @@ Swasthya Bandhu is a Python-based diseases predictor tool and chatbot designed t
    ```
 3. Run the `swasthya_bandhu.py` script to start the Flask server:
    ```
-   python swasthya_bandhu.py
+   python3 swasthya_bandhu.py
    ```
 4. Access the chat interface by opening `http://localhost:5000/` in a web browser.
